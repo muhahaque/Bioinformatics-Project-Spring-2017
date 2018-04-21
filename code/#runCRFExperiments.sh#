@@ -1,0 +1,129 @@
+#a quick shell script for running our experiments
+get_data() {
+  echo ""
+  echo "STARTED ORDER 1"
+  echo ""
+
+  #train on sets of size 1 through 10, incrementing by 1
+  #and then test and output results to an output file
+  for ((k=1; k <= 10; k=k+1)) do
+    for ((trial=1; trial<4; trial=trial+1)) do
+      python parseData.py benchmark1975.txt $k 1
+      mv trainEx Mallet/
+      mv testEx Mallet/
+      cd Mallet
+      java -cp "/home/trahman1/cs68/Project-trahman1-mhaque2/code/Mallet/class:/home/trahman1/cs68/Project-trahman1-mhaque2/code/Mallet/lib/mallet-deps.jar" cc.mallet.fst.SimpleTagger --train true --model-file protCRF trainEx
+      java -cp "/home/trahman1/cs68/Project-trahman1-mhaque2/code/Mallet/class:/home/trahman1/cs68/Project-trahman1-mhaque2/code/Mallet/lib/mallet-deps.jar" cc.mallet.fst.SimpleTagger --model-file protCRF testEx > exampleOutput
+      rm trainEx
+      rm testEx
+      cd ..
+      python parseData.py benchmark1975.txt $k 0
+      cd Mallet
+      rm exampleOutput
+      cd ..
+    done
+  done
+
+  #repeat the process for training set sizes of 20 through 90, incrementing by 10
+  for ((k=20; k <= 90; k=k+10)) do
+    for ((trial=1; trial<4; trial=trial+1)) do
+      python parseData.py benchmark1975.txt $k 1
+      mv trainEx Mallet/
+      mv testEx Mallet/
+      cd Mallet
+      java -cp "/home/trahman1/cs68/Project-trahman1-mhaque2/code/Mallet/class:/home/trahman1/cs68/Project-trahman1-mhaque2/code/Mallet/lib/mallet-deps.jar" cc.mallet.fst.SimpleTagger --train true --model-file protCRF trainEx
+      java -cp "/home/trahman1/cs68/Project-trahman1-mhaque2/code/Mallet/class:/home/trahman1/cs68/Project-trahman1-mhaque2/code/Mallet/lib/mallet-deps.jar" cc.mallet.fst.SimpleTagger --model-file protCRF testEx > exampleOutput
+      rm trainEx
+      rm testEx
+      cd ..
+      python parseData.py benchmark1975.txt $k 0
+      cd Mallet
+      rm exampleOutput
+      cd ..
+    done
+  done
+
+  #repeat the process for training set sizes of 100 through 1300, incrementing by 300
+  for ((k=100; k <= 1300; k=k+300)) do
+    echo "K: $k"
+    for ((trial=1; trial<4; trial=trial+1)) do
+      echo "Trial: $trial"
+      python parseData.py benchmark1975.txt $k 1
+      mv trainEx Mallet/
+      mv testEx Mallet/
+      cd Mallet
+      java -cp "/home/trahman1/cs68/Project-trahman1-mhaque2/code/Mallet/class:/home/trahman1/cs68/Project-trahman1-mhaque2/code/Mallet/lib/mallet-deps.jar" cc.mallet.fst.SimpleTagger --train true --model-file protCRF trainEx
+      java -cp "/home/trahman1/cs68/Project-trahman1-mhaque2/code/Mallet/class:/home/trahman1/cs68/Project-trahman1-mhaque2/code/Mallet/lib/mallet-deps.jar" cc.mallet.fst.SimpleTagger --model-file protCRF testEx > exampleOutput
+      rm trainEx
+      rm testEx
+      cd ..
+      python parseData.py benchmark1975.txt $k 0
+      cd Mallet
+      rm exampleOutput
+      cd ..
+    done
+  done
+
+
+        #repeat all the above iterations of the training set size
+        #for a CRf
+  echo ""
+  echo "STARTED ORDER 3"
+  echo ""
+
+  for ((k=1; k <= 10; k=k+1)) do
+    for ((trial=1; trial<4; trial=trial+1)) do
+      python parseData.py benchmark1975.txt $k 1
+      mv trainEx Mallet/
+      mv testEx Mallet/
+      cd Mallet
+      java -cp "/home/trahman1/cs68/Project-trahman1-mhaque2/code/Mallet/class:/home/trahman1/cs68/Project-trahman1-mhaque2/code/Mallet/lib/mallet-deps.jar" cc.mallet.fst.SimpleTagger --orders 3 --train true --model-file protCRF trainEx
+      java -cp "/home/trahman1/cs68/Project-trahman1-mhaque2/code/Mallet/class:/home/trahman1/cs68/Project-trahman1-mhaque2/code/Mallet/lib/mallet-deps.jar" cc.mallet.fst.SimpleTagger --model-file protCRF testEx > exampleOutput
+      rm trainEx
+      rm testEx
+      cd ..
+      python parseData.py benchmark1975.txt $k 0
+      cd Mallet
+      rm exampleOutput
+      cd ..
+    done
+  done
+
+  for ((k=20; k <= 90; k=k+10)) do
+    for ((trial=1; trial<4; trial=trial+1)) do
+      python parseData.py benchmark1975.txt $k 1
+      mv trainEx Mallet/
+      mv testEx Mallet/
+      cd Mallet
+      java -cp "/home/trahman1/cs68/Project-trahman1-mhaque2/code/Mallet/class:/home/trahman1/cs68/Project-trahman1-mhaque2/code/Mallet/lib/mallet-deps.jar" cc.mallet.fst.SimpleTagger --orders 3 --train true --model-file protCRF trainEx
+      java -cp "/home/trahman1/cs68/Project-trahman1-mhaque2/code/Mallet/class:/home/trahman1/cs68/Project-trahman1-mhaque2/code/Mallet/lib/mallet-deps.jar" cc.mallet.fst.SimpleTagger --model-file protCRF testEx > exampleOutput
+      rm trainEx
+      rm testEx
+      cd ..
+      python parseData.py benchmark1975.txt $k 0
+      cd Mallet
+      rm exampleOutput
+      cd ..
+    done
+  done
+  
+  for ((k=100; k <= 1300; k=k+300)) do
+    for ((trial=1; trial<4; trial=trial+1)) do
+      python parseData.py benchmark1975.txt $k 1
+      mv trainEx Mallet/
+      mv testEx Mallet/
+      cd Mallet
+      java -cp "/home/trahman1/cs68/Project-trahman1-mhaque2/code/Mallet/class:/home/trahman1/cs68/Project-trahman1-mhaque2/code/Mallet/lib/mallet-deps.jar" cc.mallet.fst.SimpleTagger --orders 3 --train true --model-file protCRF trainEx
+      java -cp "/home/trahman1/cs68/Project-trahman1-mhaque2/code/Mallet/class:/home/trahman1/cs68/Project-trahman1-mhaque2/code/Mallet/lib/mallet-deps.jar" cc.mallet.fst.SimpleTagger --model-file protCRF testEx > exampleOutput
+      rm trainEx
+      rm testEx
+      cd ..
+      python parseData.py benchmark1975.txt $k 0
+      cd Mallet
+      rm exampleOutput
+      cd ..
+    done
+  done
+}
+
+get_data

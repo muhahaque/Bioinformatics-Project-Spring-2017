@@ -1,0 +1,42 @@
+This folder contains all the code.
+
+Here is a brief description of all the files and folders:
+
+Folders/Packages:
+Mallet - the mallet folder containing code for CRFs
+projectData - contains a copy of the data set
+svm_binaries - contains the binaries for svm hmms 
+
+Files:
+
+benchmark1975.txt - the data set
+
+parseData.py - the main file for parsing the data set
+
+ourHMM.py - code we wrote implementing an HMM, not maintained/updated
+
+hmm.py - code for running and evaluating NLTK's hmm
+runHMMExperiments.sh - a bash script for running HMM experiments
+
+CRFEvaluator.py - code for running and evaluating Mallet's CRF
+runCRFExperiments.sh - a bash script for running CRF experiments
+
+
+SVMHMMEValuator.py - This file contains code for running and evaluating SVM HMM 
+
+runSVMHMMExperiments.sh - a bash script for running svm hmm experiments
+
+Ignore .out and .csv files - they were stored after running the bash scripts
+
+
+***********
+
+To run:
+go to parseData, and uncomment the appropriate section marked by
+#=========
+code
+#=========
+
+and then run the appropriate bash script
+
+***********

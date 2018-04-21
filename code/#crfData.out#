@@ -1,0 +1,4070 @@
+
+STARTED ORDER 1
+
+K: 1
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 1 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 1125
+False Positive H: 2436
+True Negative H: 10667
+False Negative H: 13360
+
+B DATA:
+True Positive B: 5359
+False Positive B: 16861
+True Negative B: 6433
+False Negative B: 4967
+
+C DATA:
+True Positive C: 5308
+False Positive C: 9385
+True Negative C: 6484
+False Negative C: 10355
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 1 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 0
+False Positive H: 0
+True Negative H: 0
+False Negative H: 0
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 0
+False Negative B: 0
+
+C DATA:
+True Positive C: 0
+False Positive C: 0
+True Negative C: 0
+False Negative C: 0
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 1 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 0
+False Positive H: 0
+True Negative H: 0
+False Negative H: 0
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 0
+False Negative B: 0
+
+C DATA:
+True Positive C: 0
+False Positive C: 0
+True Negative C: 0
+False Negative C: 0
+=======================
+
+
+
+====================
+K: 2
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 2 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 10957
+False Positive H: 14558
+True Negative H: 6524
+False Negative H: 5753
+
+B DATA:
+True Positive B: 980
+False Positive B: 3241
+True Negative B: 16501
+False Negative B: 8905
+
+C DATA:
+True Positive C: 5544
+False Positive C: 7125
+True Negative C: 11937
+False Negative C: 10266
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 2 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 7286
+False Positive H: 8542
+True Negative H: 10410
+False Negative H: 9094
+
+B DATA:
+True Positive B: 1717
+False Positive B: 4375
+True Negative B: 15979
+False Negative B: 8012
+
+C DATA:
+True Positive C: 8693
+False Positive C: 12201
+True Negative C: 9003
+False Negative C: 8012
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 2 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 11885
+False Positive H: 16307
+True Negative H: 6452
+False Negative H: 4337
+
+B DATA:
+True Positive B: 1408
+False Positive B: 3580
+True Negative B: 16929
+False Negative B: 9634
+
+C DATA:
+True Positive C: 5044
+False Positive C: 5738
+True Negative C: 13293
+False Negative C: 11654
+=======================
+
+
+
+====================
+K: 3
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 3 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 9201
+False Positive H: 11688
+True Negative H: 8807
+False Negative H: 8171
+
+B DATA:
+True Positive B: 1421
+False Positive B: 3584
+True Negative B: 16587
+False Negative B: 8420
+
+C DATA:
+True Positive C: 7386
+False Positive C: 10594
+True Negative C: 10622
+False Negative C: 9275
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 3 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 9214
+False Positive H: 10604
+True Negative H: 8569
+False Negative H: 7035
+
+B DATA:
+True Positive B: 1347
+False Positive B: 4299
+True Negative B: 16436
+False Negative B: 8252
+
+C DATA:
+True Positive C: 7222
+False Positive C: 8754
+True Negative C: 10561
+False Negative C: 8370
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 3 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 5542
+False Positive H: 7353
+True Negative H: 8328
+False Negative H: 9476
+
+B DATA:
+True Positive B: 4637
+False Positive B: 14111
+True Negative B: 9233
+False Negative B: 5108
+
+C DATA:
+True Positive C: 3691
+False Positive C: 4717
+True Negative C: 10179
+False Negative C: 11597
+=======================
+
+
+
+====================
+K: 4
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 4 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 12381
+False Positive H: 15419
+True Negative H: 5658
+False Negative H: 4635
+
+B DATA:
+True Positive B: 2307
+False Positive B: 6194
+True Negative B: 15732
+False Negative B: 7163
+
+C DATA:
+True Positive C: 3351
+False Positive C: 3281
+True Negative C: 14688
+False Negative C: 13096
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 4 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 8337
+False Positive H: 8791
+True Negative H: 7494
+False Negative H: 8815
+
+B DATA:
+True Positive B: 4110
+False Positive B: 12957
+True Negative B: 11721
+False Negative B: 4892
+
+C DATA:
+True Positive C: 3384
+False Positive C: 4413
+True Negative C: 12447
+False Negative C: 12454
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 4 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 10988
+False Positive H: 17402
+True Negative H: 4208
+False Negative H: 4178
+
+B DATA:
+True Positive B: 1295
+False Positive B: 3633
+True Negative B: 13901
+False Negative B: 8348
+
+C DATA:
+True Positive C: 2913
+False Positive C: 4098
+True Negative C: 12283
+False Negative C: 12607
+=======================
+
+
+
+====================
+K: 5
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 5 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 10765
+False Positive H: 12276
+True Negative H: 8158
+False Negative H: 5909
+
+B DATA:
+True Positive B: 2131
+False Positive B: 4523
+True Negative B: 16792
+False Negative B: 8330
+
+C DATA:
+True Positive C: 6027
+False Positive C: 7726
+True Negative C: 12896
+False Negative C: 10286
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 5 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 9396
+False Positive H: 13341
+True Negative H: 7264
+False Negative H: 6796
+
+B DATA:
+True Positive B: 2611
+False Positive B: 6620
+True Negative B: 14049
+False Negative B: 7663
+
+C DATA:
+True Positive C: 4653
+False Positive C: 6359
+True Negative C: 12007
+False Negative C: 11861
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 5 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 14867
+False Positive H: 18727
+True Negative H: 3254
+False Negative H: 1544
+
+B DATA:
+True Positive B: 484
+False Positive B: 772
+True Negative B: 17637
+False Negative B: 8628
+
+C DATA:
+True Positive C: 2770
+False Positive C: 2894
+True Negative C: 15351
+False Negative C: 12221
+=======================
+
+
+
+====================
+K: 6
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 6 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 14559
+False Positive H: 19863
+True Negative H: 2972
+False Negative H: 2343
+
+B DATA:
+True Positive B: 948
+False Positive B: 2477
+True Negative B: 16583
+False Negative B: 8601
+
+C DATA:
+True Positive C: 2024
+False Positive C: 2298
+True Negative C: 15507
+False Negative C: 13694
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 6 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 13121
+False Positive H: 15422
+True Negative H: 5941
+False Negative H: 3925
+
+B DATA:
+True Positive B: 1314
+False Positive B: 3186
+True Negative B: 17748
+False Negative B: 8455
+
+C DATA:
+True Positive C: 4627
+False Positive C: 5337
+True Negative C: 14435
+False Negative C: 11565
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 6 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15519
+False Positive H: 20591
+True Negative H: 2467
+False Negative H: 1450
+
+B DATA:
+True Positive B: 108
+False Positive B: 226
+True Negative B: 17878
+False Negative B: 9095
+
+C DATA:
+True Positive C: 2359
+False Positive C: 2756
+True Negative C: 15627
+False Negative C: 13028
+=======================
+
+
+
+====================
+K: 7
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 7 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15905
+False Positive H: 22278
+True Negative H: 1787
+False Negative H: 1215
+
+B DATA:
+True Positive B: 522
+False Positive B: 1492
+True Negative B: 17170
+False Negative B: 8828
+
+C DATA:
+True Positive C: 1265
+False Positive C: 1226
+True Negative C: 16427
+False Negative C: 14953
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 7 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 12581
+False Positive H: 14378
+True Negative H: 5313
+False Negative H: 4590
+
+B DATA:
+True Positive B: 2531
+False Positive B: 6406
+True Negative B: 15363
+False Negative B: 6524
+
+C DATA:
+True Positive C: 2782
+False Positive C: 3499
+True Negative C: 15112
+False Negative C: 13169
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 7 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 11559
+False Positive H: 14970
+True Negative H: 5217
+False Negative H: 3915
+
+B DATA:
+True Positive B: 1869
+False Positive B: 4329
+True Negative B: 14907
+False Negative B: 7818
+
+C DATA:
+True Positive C: 3348
+False Positive C: 4248
+True Negative C: 13428
+False Negative C: 11814
+=======================
+
+
+
+====================
+K: 8
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 8 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 12599
+False Positive H: 17777
+True Negative H: 5397
+False Negative H: 2792
+
+B DATA:
+True Positive B: 410
+False Positive B: 669
+True Negative B: 17586
+False Negative B: 9815
+
+C DATA:
+True Positive C: 4987
+False Positive C: 5569
+True Negative C: 13009
+False Negative C: 11408
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 8 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 14698
+False Positive H: 20740
+True Negative H: 2066
+False Negative H: 930
+
+B DATA:
+True Positive B: 53
+False Positive B: 87
+True Negative B: 16711
+False Negative B: 9086
+
+C DATA:
+True Positive C: 2013
+False Positive C: 2321
+True Negative C: 14751
+False Negative C: 13132
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 8 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 14156
+False Positive H: 15773
+True Negative H: 5345
+False Negative H: 3088
+
+B DATA:
+True Positive B: 1228
+False Positive B: 2517
+True Negative B: 18273
+False Negative B: 8048
+
+C DATA:
+True Positive C: 4117
+False Positive C: 4945
+True Negative C: 15384
+False Negative C: 12099
+=======================
+
+
+
+====================
+K: 9
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 9 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 11881
+False Positive H: 15613
+True Negative H: 6080
+False Negative H: 4493
+
+B DATA:
+True Positive B: 2114
+False Positive B: 4321
+True Negative B: 15847
+False Negative B: 8175
+
+C DATA:
+True Positive C: 3966
+False Positive C: 4823
+True Negative C: 13995
+False Negative C: 12089
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 9 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 13323
+False Positive H: 20273
+True Negative H: 1794
+False Negative H: 931
+
+B DATA:
+True Positive B: 89
+False Positive B: 291
+True Negative B: 15028
+False Negative B: 8819
+
+C DATA:
+True Positive C: 1705
+False Positive C: 1814
+True Negative C: 13412
+False Negative C: 12628
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 9 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16097
+False Positive H: 22644
+True Negative H: 836
+False Negative H: 320
+
+B DATA:
+True Positive B: 232
+False Positive B: 402
+True Negative B: 16701
+False Negative B: 8898
+
+C DATA:
+True Positive C: 604
+False Positive C: 524
+True Negative C: 16329
+False Negative C: 14352
+=======================
+
+
+
+====================
+K: 10
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 10 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15318
+False Positive H: 23931
+True Negative H: 1230
+False Negative H: 584
+
+B DATA:
+True Positive B: 297
+False Positive B: 648
+True Negative B: 16251
+False Negative B: 9568
+
+C DATA:
+True Positive C: 933
+False Positive C: 784
+True Negative C: 15615
+False Negative C: 15211
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 10 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 14241
+False Positive H: 17833
+True Negative H: 3331
+False Negative H: 1796
+
+B DATA:
+True Positive B: 961
+False Positive B: 2091
+True Negative B: 16611
+False Negative B: 8006
+
+C DATA:
+True Positive C: 2370
+False Positive C: 2674
+True Negative C: 15202
+False Negative C: 12796
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 10 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15871
+False Positive H: 26343
+True Negative H: 122
+False Negative H: 79
+
+B DATA:
+True Positive B: 85
+False Positive B: 160
+True Negative B: 15908
+False Negative B: 10465
+
+C DATA:
+True Positive C: 37
+False Positive C: 47
+True Negative C: 15956
+False Negative C: 16006
+=======================
+
+
+
+====================
+K: 20
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 20 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15859
+False Positive H: 25449
+True Negative H: 748
+False Negative H: 262
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 16607
+False Negative B: 10142
+
+C DATA:
+True Positive C: 748
+False Positive C: 670
+True Negative C: 15859
+False Negative C: 15715
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 20 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16270
+False Positive H: 24802
+True Negative H: 1167
+False Negative H: 539
+
+B DATA:
+True Positive B: 303
+False Positive B: 587
+True Negative B: 17134
+False Negative B: 9664
+
+C DATA:
+True Positive C: 864
+False Positive C: 882
+True Negative C: 16573
+False Negative C: 16068
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 20 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 14910
+False Positive H: 22081
+True Negative H: 926
+False Negative H: 447
+
+B DATA:
+True Positive B: 99
+False Positive B: 242
+True Negative B: 15737
+False Negative B: 8918
+
+C DATA:
+True Positive C: 827
+False Positive C: 863
+True Negative C: 15009
+False Negative C: 13821
+=======================
+
+
+
+====================
+K: 30
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 30 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15483
+False Positive H: 21510
+True Negative H: 1356
+False Negative H: 489
+
+B DATA:
+True Positive B: 613
+False Positive B: 866
+True Negative B: 16226
+False Negative B: 8497
+
+C DATA:
+True Positive C: 743
+False Positive C: 615
+True Negative C: 16096
+False Negative C: 14005
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 30 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16064
+False Positive H: 20802
+True Negative H: 1514
+False Negative H: 602
+
+B DATA:
+True Positive B: 24
+False Positive B: 25
+True Negative B: 17554
+False Negative B: 8226
+
+C DATA:
+True Positive C: 1490
+False Positive C: 1330
+True Negative C: 16088
+False Negative C: 13329
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 30 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15058
+False Positive H: 24440
+True Negative H: 303
+False Negative H: 99
+
+B DATA:
+True Positive B: 127
+False Positive B: 183
+True Negative B: 15234
+False Negative B: 9753
+
+C DATA:
+True Positive C: 176
+False Positive C: 112
+True Negative C: 15185
+False Negative C: 14883
+=======================
+
+
+
+====================
+K: 40
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 40 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16561
+False Positive H: 25228
+True Negative H: 287
+False Negative H: 78
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 16848
+False Negative B: 9678
+
+C DATA:
+True Positive C: 287
+False Positive C: 237
+True Negative C: 16561
+False Negative C: 15709
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 40 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16225
+False Positive H: 26614
+True Negative H: 0
+False Negative H: 0
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 16225
+False Negative B: 10184
+
+C DATA:
+True Positive C: 0
+False Positive C: 0
+True Negative C: 16225
+False Negative C: 16430
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 40 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15077
+False Positive H: 23954
+True Negative H: 1011
+False Negative H: 517
+
+B DATA:
+True Positive B: 679
+False Positive B: 1276
+True Negative B: 15409
+False Negative B: 9472
+
+C DATA:
+True Positive C: 332
+False Positive C: 326
+True Negative C: 15756
+False Negative C: 15567
+=======================
+
+
+
+====================
+K: 50
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 50 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15785
+False Positive H: 21555
+True Negative H: 434
+False Negative H: 150
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 16219
+False Negative B: 7882
+
+C DATA:
+True Positive C: 434
+False Positive C: 348
+True Negative C: 15785
+False Negative C: 13871
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 50 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16922
+False Positive H: 25185
+True Negative H: 331
+False Negative H: 101
+
+B DATA:
+True Positive B: 296
+False Positive B: 441
+True Negative B: 16957
+False Negative B: 9406
+
+C DATA:
+True Positive C: 35
+False Positive C: 20
+True Negative C: 17218
+False Negative C: 16139
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 50 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16027
+False Positive H: 23825
+True Negative H: 407
+False Negative H: 242
+
+B DATA:
+True Positive B: 8
+False Positive B: 41
+True Negative B: 16426
+False Negative B: 9027
+
+C DATA:
+True Positive C: 399
+False Positive C: 399
+True Negative C: 16035
+False Negative C: 14996
+=======================
+
+
+
+====================
+K: 60
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 60 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 14069
+False Positive H: 22432
+True Negative H: 210
+False Negative H: 43
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 14279
+False Negative B: 9022
+
+C DATA:
+True Positive C: 210
+False Positive C: 156
+True Negative C: 14069
+False Negative C: 13523
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 60 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16206
+False Positive H: 26195
+True Negative H: 332
+False Negative H: 100
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 16538
+False Negative B: 10012
+
+C DATA:
+True Positive C: 332
+False Positive C: 322
+True Negative C: 16206
+False Negative C: 16405
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 60 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16293
+False Positive H: 25338
+True Negative H: 145
+False Negative H: 22
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 16438
+False Negative B: 9698
+
+C DATA:
+True Positive C: 145
+False Positive C: 108
+True Negative C: 16293
+False Negative C: 15726
+=======================
+
+
+
+====================
+K: 70
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 70 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16728
+False Positive H: 25926
+True Negative H: 260
+False Negative H: 61
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 16988
+False Negative B: 9806
+
+C DATA:
+True Positive C: 260
+False Positive C: 228
+True Negative C: 16728
+False Negative C: 16287
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 70 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 17054
+False Positive H: 24869
+True Negative H: 263
+False Negative H: 69
+
+B DATA:
+True Positive B: 14
+False Positive B: 12
+True Negative B: 17303
+False Negative B: 9581
+
+C DATA:
+True Positive C: 249
+False Positive C: 179
+True Negative C: 17068
+False Negative C: 15410
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 70 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16255
+False Positive H: 24915
+True Negative H: 482
+False Negative H: 160
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 16737
+False Negative B: 9905
+
+C DATA:
+True Positive C: 482
+False Positive C: 489
+True Negative C: 16255
+False Negative C: 15339
+=======================
+
+
+
+====================
+K: 80
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 80 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16245
+False Positive H: 23283
+True Negative H: 338
+False Negative H: 59
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 16583
+False Negative B: 8572
+
+C DATA:
+True Positive C: 338
+False Positive C: 244
+True Negative C: 16245
+False Negative C: 14896
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 80 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16681
+False Positive H: 26497
+True Negative H: 0
+False Negative H: 0
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 16681
+False Negative B: 10069
+
+C DATA:
+True Positive C: 0
+False Positive C: 0
+True Negative C: 16681
+False Negative C: 16428
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 80 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 17418
+False Positive H: 23251
+True Negative H: 368
+False Negative H: 95
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 17786
+False Negative B: 8463
+
+C DATA:
+True Positive C: 368
+False Positive C: 231
+True Negative C: 17418
+False Negative C: 14924
+=======================
+
+
+
+====================
+K: 90
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 90 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15763
+False Positive H: 25324
+True Negative H: 712
+False Negative H: 211
+
+B DATA:
+True Positive B: 110
+False Positive B: 183
+True Negative B: 16365
+False Negative B: 10150
+
+C DATA:
+True Positive C: 602
+False Positive C: 524
+True Negative C: 15873
+False Negative C: 15670
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 90 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15626
+False Positive H: 23788
+True Negative H: 370
+False Negative H: 31
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 15996
+False Negative B: 9498
+
+C DATA:
+True Positive C: 370
+False Positive C: 258
+True Negative C: 15626
+False Negative C: 14517
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 90 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15542
+False Positive H: 24647
+True Negative H: 268
+False Negative H: 26
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 15810
+False Negative B: 9955
+
+C DATA:
+True Positive C: 268
+False Positive C: 199
+True Negative C: 15542
+False Negative C: 14865
+=======================
+
+
+
+====================
+K: 100
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 100 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16733
+False Positive H: 25334
+True Negative H: 387
+False Negative H: 135
+
+B DATA:
+True Positive B: 70
+False Positive B: 96
+True Negative B: 17050
+False Negative B: 9596
+
+C DATA:
+True Positive C: 317
+False Positive C: 310
+True Negative C: 16803
+False Negative C: 16009
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 100 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15321
+False Positive H: 24541
+True Negative H: 114
+False Negative H: 15
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 15435
+False Negative B: 9496
+
+C DATA:
+True Positive C: 114
+False Positive C: 92
+True Negative C: 15321
+False Negative C: 15122
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 100 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15026
+False Positive H: 25231
+True Negative H: 0
+False Negative H: 0
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 15026
+False Negative B: 9813
+
+C DATA:
+True Positive C: 0
+False Positive C: 0
+True Negative C: 15026
+False Negative C: 15418
+=======================
+
+
+
+====================
+K: 400
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 400 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15812
+False Positive H: 25226
+True Negative H: 594
+False Negative H: 147
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 16406
+False Negative B: 10100
+
+C DATA:
+True Positive C: 594
+False Positive C: 513
+True Negative C: 15812
+False Negative C: 15492
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 400 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15676
+False Positive H: 24176
+True Negative H: 71
+False Negative H: 24
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 15747
+False Negative B: 9467
+
+C DATA:
+True Positive C: 71
+False Positive C: 56
+True Negative C: 15676
+False Negative C: 14741
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 400 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 17727
+False Positive H: 25790
+True Negative H: 54
+False Negative H: 12
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 17781
+False Negative B: 9649
+
+C DATA:
+True Positive C: 54
+False Positive C: 24
+True Negative C: 17727
+False Negative C: 16153
+=======================
+
+
+
+====================
+K: 700
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 700 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16572
+False Positive H: 27765
+True Negative H: 283
+False Negative H: 30
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 16855
+False Negative B: 10951
+
+C DATA:
+True Positive C: 283
+False Positive C: 218
+True Negative C: 16572
+False Negative C: 17002
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 700 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15456
+False Positive H: 26128
+True Negative H: 177
+False Negative H: 47
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 15633
+False Negative B: 10291
+
+C DATA:
+True Positive C: 177
+False Positive C: 137
+True Negative C: 15456
+False Negative C: 15927
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 700 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16564
+False Positive H: 24773
+True Negative H: 0
+False Negative H: 0
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 16564
+False Negative B: 9677
+
+C DATA:
+True Positive C: 0
+False Positive C: 0
+True Negative C: 16564
+False Negative C: 15096
+=======================
+
+
+
+====================
+K: 1000
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 1000 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 14987
+False Positive H: 24913
+True Negative H: 231
+False Negative H: 55
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 15218
+False Negative B: 10099
+
+C DATA:
+True Positive C: 231
+False Positive C: 189
+True Negative C: 14987
+False Negative C: 14948
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 1000 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15082
+False Positive H: 23848
+True Negative H: 376
+False Negative H: 111
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 15458
+False Negative B: 9322
+
+C DATA:
+True Positive C: 376
+False Positive C: 337
+True Negative C: 15082
+False Negative C: 14752
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 1000 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 17277
+False Positive H: 25599
+True Negative H: 27
+False Negative H: 9
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 17304
+False Negative B: 9429
+
+C DATA:
+True Positive C: 27
+False Positive C: 22
+True Negative C: 17277
+False Negative C: 16183
+=======================
+
+
+
+====================
+K: 1300
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 1300 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15244
+False Positive H: 22637
+True Negative H: 286
+False Negative H: 93
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 15530
+False Negative B: 8643
+
+C DATA:
+True Positive C: 286
+False Positive C: 268
+True Negative C: 15244
+False Negative C: 14169
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 1300 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16915
+False Positive H: 25706
+True Negative H: 146
+False Negative H: 34
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 17061
+False Negative B: 10004
+
+C DATA:
+True Positive C: 146
+False Positive C: 82
+True Negative C: 16915
+False Negative C: 15750
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 1300 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16141
+False Positive H: 25567
+True Negative H: 125
+False Negative H: 35
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 16266
+False Negative B: 9772
+
+C DATA:
+True Positive C: 125
+False Positive C: 93
+True Negative C: 16141
+False Negative C: 15853
+=======================
+
+
+
+====================
+
+STARTED ORDER 3
+
+K: 1
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 1 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 9787
+False Positive H: 14640
+True Negative H: 4911
+False Negative H: 5372
+
+B DATA:
+True Positive B: 2197
+False Positive B: 5594
+True Negative B: 12501
+False Negative B: 7345
+
+C DATA:
+True Positive C: 2714
+False Positive C: 4548
+True Negative C: 11984
+False Negative C: 12065
+=======================
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 1 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 7157
+False Positive H: 9137
+True Negative H: 8257
+False Negative H: 7177
+
+B DATA:
+True Positive B: 2325
+False Positive B: 6072
+True Negative B: 13089
+False Negative B: 6960
+
+C DATA:
+True Positive C: 5932
+False Positive C: 7913
+True Negative C: 9482
+False Negative C: 8985
+=======================
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 1 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 10072
+False Positive H: 14991
+True Negative H: 6750
+False Negative H: 7057
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 16822
+False Negative B: 9281
+
+C DATA:
+True Positive C: 6750
+False Positive C: 10527
+True Negative C: 10072
+False Negative C: 9180
+=======================
+
+
+====================
+K: 2
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 2 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 4082
+False Positive H: 5508
+True Negative H: 9033
+False Negative H: 12502
+
+B DATA:
+True Positive B: 3971
+False Positive B: 13639
+True Negative B: 9144
+False Negative B: 5309
+
+C DATA:
+True Positive C: 5062
+False Positive C: 8350
+True Negative C: 8053
+False Negative C: 9686
+=======================
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 2 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 11470
+False Positive H: 14700
+True Negative H: 6008
+False Negative H: 4366
+
+B DATA:
+True Positive B: 274
+False Positive B: 613
+True Negative B: 17204
+False Negative B: 8854
+
+C DATA:
+True Positive C: 5734
+False Positive C: 7309
+True Negative C: 11744
+False Negative C: 9402
+=======================
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 2 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 8934
+False Positive H: 12998
+True Negative H: 7165
+False Negative H: 7623
+
+B DATA:
+True Positive B: 1761
+False Positive B: 4921
+True Negative B: 14338
+False Negative B: 8123
+
+C DATA:
+True Positive C: 5404
+False Positive C: 8380
+True Negative C: 10695
+False Negative C: 10553
+=======================
+
+
+====================
+K: 3
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 3 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 5341
+False Positive H: 7202
+True Negative H: 9028
+False Negative H: 9614
+
+B DATA:
+True Positive B: 2538
+False Positive B: 7640
+True Negative B: 11831
+False Negative B: 6378
+
+C DATA:
+True Positive C: 6490
+False Positive C: 9389
+True Negative C: 7879
+False Negative C: 8239
+=======================
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 3 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 6591
+False Positive H: 10279
+True Negative H: 8634
+False Negative H: 10171
+
+B DATA:
+True Positive B: 2556
+False Positive B: 7428
+True Negative B: 12669
+False Negative B: 6945
+
+C DATA:
+True Positive C: 6078
+False Positive C: 9633
+True Negative C: 9147
+False Negative C: 10224
+=======================
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 3 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 6891
+False Positive H: 6893
+True Negative H: 10418
+False Negative H: 9728
+
+B DATA:
+True Positive B: 3797
+False Positive B: 9367
+True Negative B: 13512
+False Negative B: 6560
+
+C DATA:
+True Positive C: 6621
+False Positive C: 9344
+True Negative C: 10688
+False Negative C: 9316
+=======================
+
+
+====================
+K: 4
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 4 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 10380
+False Positive H: 11318
+True Negative H: 7425
+False Negative H: 6067
+
+B DATA:
+True Positive B: 2579
+False Positive B: 5965
+True Negative B: 15226
+False Negative B: 6862
+
+C DATA:
+True Positive C: 4846
+False Positive C: 6354
+True Negative C: 12959
+False Negative C: 10708
+=======================
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 4 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 7990
+False Positive H: 8549
+True Negative H: 9149
+False Negative H: 7419
+
+B DATA:
+True Positive B: 2566
+False Positive B: 5948
+True Negative B: 14573
+False Negative B: 6938
+
+C DATA:
+True Positive C: 6583
+False Positive C: 8666
+True Negative C: 10556
+False Negative C: 8806
+=======================
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 4 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 8179
+False Positive H: 9708
+True Negative H: 7561
+False Negative H: 6920
+
+B DATA:
+True Positive B: 1924
+False Positive B: 5542
+True Negative B: 13816
+False Negative B: 6931
+
+C DATA:
+True Positive C: 5637
+False Positive C: 7574
+True Negative C: 10103
+False Negative C: 8973
+=======================
+
+
+====================
+K: 5
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 5 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 8723
+False Positive H: 11330
+True Negative H: 7827
+False Negative H: 6782
+
+B DATA:
+True Positive B: 3262
+False Positive B: 7462
+True Negative B: 13288
+False Negative B: 7213
+
+C DATA:
+True Positive C: 4565
+False Positive C: 6710
+True Negative C: 11985
+False Negative C: 11507
+=======================
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 5 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 7610
+False Positive H: 8853
+True Negative H: 9073
+False Negative H: 8295
+
+B DATA:
+True Positive B: 4081
+False Positive B: 10384
+True Negative B: 12602
+False Negative B: 6510
+
+C DATA:
+True Positive C: 4992
+False Positive C: 6814
+True Negative C: 11691
+False Negative C: 11246
+=======================
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 5 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 9999
+False Positive H: 13003
+True Negative H: 6999
+False Negative H: 6426
+
+B DATA:
+True Positive B: 1994
+False Positive B: 6138
+True Negative B: 15004
+False Negative B: 8365
+
+C DATA:
+True Positive C: 5005
+False Positive C: 6403
+True Negative C: 11993
+False Negative C: 10753
+=======================
+
+
+====================
+K: 6
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 6 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 8284
+False Positive H: 8850
+True Negative H: 8621
+False Negative H: 8468
+
+B DATA:
+True Positive B: 3357
+False Positive B: 9771
+True Negative B: 13548
+False Negative B: 6560
+
+C DATA:
+True Positive C: 5264
+False Positive C: 7505
+True Negative C: 11641
+False Negative C: 11098
+=======================
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 6 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 7834
+False Positive H: 8335
+True Negative H: 8621
+False Negative H: 7167
+
+B DATA:
+True Positive B: 3088
+False Positive B: 6980
+True Negative B: 13367
+False Negative B: 5980
+
+C DATA:
+True Positive C: 5533
+False Positive C: 6677
+True Negative C: 10922
+False Negative C: 8845
+=======================
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 6 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 7771
+False Positive H: 9786
+True Negative H: 7390
+False Negative H: 7089
+
+B DATA:
+True Positive B: 3311
+False Positive B: 8705
+True Negative B: 11850
+False Negative B: 6194
+
+C DATA:
+True Positive C: 4079
+False Positive C: 5833
+True Negative C: 11082
+False Negative C: 11041
+=======================
+
+
+====================
+K: 7
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 7 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 11181
+False Positive H: 12538
+True Negative H: 7917
+False Negative H: 6136
+
+B DATA:
+True Positive B: 1570
+False Positive B: 3845
+True Negative B: 17528
+False Negative B: 8346
+
+C DATA:
+True Positive C: 6347
+False Positive C: 8359
+True Negative C: 12751
+False Negative C: 10260
+=======================
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 7 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 12177
+False Positive H: 14296
+True Negative H: 6803
+False Negative H: 4934
+
+B DATA:
+True Positive B: 1626
+False Positive B: 4074
+True Negative B: 17354
+False Negative B: 8139
+
+C DATA:
+True Positive C: 5177
+False Positive C: 6097
+True Negative C: 13803
+False Negative C: 11394
+=======================
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 7 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 11878
+False Positive H: 13043
+True Negative H: 5836
+False Negative H: 4062
+
+B DATA:
+True Positive B: 1538
+False Positive B: 3368
+True Negative B: 16176
+False Negative B: 7084
+
+C DATA:
+True Positive C: 4298
+False Positive C: 5076
+True Negative C: 13416
+False Negative C: 10341
+=======================
+
+
+====================
+K: 8
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 8 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 9893
+False Positive H: 10358
+True Negative H: 7769
+False Negative H: 7189
+
+B DATA:
+True Positive B: 2419
+False Positive B: 6739
+True Negative B: 15243
+False Negative B: 7105
+
+C DATA:
+True Positive C: 5350
+False Positive C: 7440
+True Negative C: 12312
+False Negative C: 10243
+=======================
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 8 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 9265
+False Positive H: 10889
+True Negative H: 7214
+False Negative H: 7521
+
+B DATA:
+True Positive B: 2844
+False Positive B: 8552
+True Negative B: 13635
+False Negative B: 6457
+
+C DATA:
+True Positive C: 4370
+False Positive C: 5494
+True Negative C: 12109
+False Negative C: 10957
+=======================
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 8 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 9743
+False Positive H: 11905
+True Negative H: 9158
+False Negative H: 8244
+
+B DATA:
+True Positive B: 2464
+False Positive B: 7110
+True Negative B: 16437
+False Negative B: 8148
+
+C DATA:
+True Positive C: 6694
+False Positive C: 8424
+True Negative C: 12207
+False Negative C: 11047
+=======================
+
+
+====================
+K: 9
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 9 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 8248
+False Positive H: 12750
+True Negative H: 7369
+False Negative H: 5052
+
+B DATA:
+True Positive B: 2878
+False Positive B: 5776
+True Negative B: 12739
+False Negative B: 7635
+
+C DATA:
+True Positive C: 4491
+False Positive C: 5189
+True Negative C: 11126
+False Negative C: 11028
+=======================
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 9 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 7758
+False Positive H: 8143
+True Negative H: 10186
+False Negative H: 8796
+
+B DATA:
+True Positive B: 3703
+False Positive B: 9115
+True Negative B: 14241
+False Negative B: 6861
+
+C DATA:
+True Positive C: 6483
+False Positive C: 8546
+True Negative C: 11461
+False Negative C: 10147
+=======================
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 9 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 14215
+False Positive H: 20391
+True Negative H: 3246
+False Negative H: 2506
+
+B DATA:
+True Positive B: 590
+False Positive B: 1346
+True Negative B: 16871
+False Negative B: 9238
+
+C DATA:
+True Positive C: 2656
+False Positive C: 3237
+True Negative C: 14805
+False Negative C: 13230
+=======================
+
+
+====================
+K: 10
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 10 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 10721
+False Positive H: 12266
+True Negative H: 6660
+False Negative H: 4425
+
+B DATA:
+True Positive B: 1585
+False Positive B: 3722
+True Negative B: 15796
+False Negative B: 7367
+
+C DATA:
+True Positive C: 5075
+False Positive C: 5729
+True Negative C: 12306
+False Negative C: 9925
+=======================
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 10 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 8304
+False Positive H: 7863
+True Negative H: 11012
+False Negative H: 8799
+
+B DATA:
+True Positive B: 3820
+False Positive B: 8880
+True Negative B: 15496
+False Negative B: 6854
+
+C DATA:
+True Positive C: 7192
+False Positive C: 8775
+True Negative C: 12124
+False Negative C: 9865
+=======================
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 10 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 8342
+False Positive H: 8827
+True Negative H: 7539
+False Negative H: 8304
+
+B DATA:
+True Positive B: 5253
+False Positive B: 14994
+True Negative B: 10628
+False Negative B: 4423
+
+C DATA:
+True Positive C: 2286
+False Positive C: 3109
+True Negative C: 13595
+False Negative C: 14203
+=======================
+
+
+====================
+K: 20
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 20 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 13521
+False Positive H: 17331
+True Negative H: 5279
+False Negative H: 2469
+
+B DATA:
+True Positive B: 758
+False Positive B: 1485
+True Negative B: 18042
+False Negative B: 8826
+
+C DATA:
+True Positive C: 4521
+False Positive C: 4332
+True Negative C: 14279
+False Negative C: 11853
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 20 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 12623
+False Positive H: 16029
+True Negative H: 5664
+False Negative H: 3869
+
+B DATA:
+True Positive B: 1882
+False Positive B: 4445
+True Negative B: 16405
+False Negative B: 8303
+
+C DATA:
+True Positive C: 3782
+False Positive C: 4014
+True Negative C: 14505
+False Negative C: 12316
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 20 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 12382
+False Positive H: 16484
+True Negative H: 5653
+False Negative H: 2928
+
+B DATA:
+True Positive B: 1765
+False Positive B: 3564
+True Negative B: 16270
+False Negative B: 8589
+
+C DATA:
+True Positive C: 3888
+False Positive C: 3829
+True Negative C: 14147
+False Negative C: 12360
+=======================
+
+
+
+====================
+K: 30
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 30 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 13958
+False Positive H: 18736
+True Negative H: 4064
+False Negative H: 1793
+
+B DATA:
+True Positive B: 314
+False Positive B: 522
+True Negative B: 17708
+False Negative B: 9724
+
+C DATA:
+True Positive C: 3750
+False Positive C: 3830
+True Negative C: 14272
+False Negative C: 11571
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 30 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15243
+False Positive H: 22265
+True Negative H: 2831
+False Negative H: 1114
+
+B DATA:
+True Positive B: 565
+False Positive B: 1021
+True Negative B: 17509
+False Negative B: 9699
+
+C DATA:
+True Positive C: 2266
+False Positive C: 2023
+True Negative C: 15808
+False Negative C: 14496
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 30 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 13892
+False Positive H: 20635
+True Negative H: 3564
+False Negative H: 1366
+
+B DATA:
+True Positive B: 309
+False Positive B: 480
+True Negative B: 17147
+False Negative B: 10196
+
+C DATA:
+True Positive C: 3255
+False Positive C: 3070
+True Negative C: 14201
+False Negative C: 12623
+=======================
+
+
+
+====================
+K: 40
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 40 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15254
+False Positive H: 21066
+True Negative H: 3122
+False Negative H: 1147
+
+B DATA:
+True Positive B: 189
+False Positive B: 324
+True Negative B: 18187
+False Negative B: 9649
+
+C DATA:
+True Positive C: 2933
+False Positive C: 2657
+True Negative C: 15443
+False Negative C: 13251
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 40 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15582
+False Positive H: 21763
+True Negative H: 4382
+False Negative H: 1843
+
+B DATA:
+True Positive B: 309
+False Positive B: 697
+True Negative B: 19655
+False Negative B: 10756
+
+C DATA:
+True Positive C: 4073
+False Positive C: 3780
+True Negative C: 15891
+False Negative C: 13641
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 40 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15334
+False Positive H: 21032
+True Negative H: 3095
+False Negative H: 1527
+
+B DATA:
+True Positive B: 479
+False Positive B: 1004
+True Negative B: 17950
+False Negative B: 9932
+
+C DATA:
+True Positive C: 2616
+False Positive C: 2821
+True Negative C: 15813
+False Negative C: 13398
+=======================
+
+
+
+====================
+K: 50
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 50 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 18328
+False Positive H: 24810
+True Negative H: 1257
+False Negative H: 648
+
+B DATA:
+True Positive B: 365
+False Positive B: 721
+True Negative B: 19220
+False Negative B: 9039
+
+C DATA:
+True Positive C: 892
+False Positive C: 648
+True Negative C: 18693
+False Negative C: 16492
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 50 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 14939
+False Positive H: 20319
+True Negative H: 2683
+False Negative H: 872
+
+B DATA:
+True Positive B: 207
+False Positive B: 239
+True Negative B: 17415
+False Negative B: 9018
+
+C DATA:
+True Positive C: 2476
+False Positive C: 2020
+True Negative C: 15146
+False Negative C: 12688
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 50 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15388
+False Positive H: 20533
+True Negative H: 3381
+False Negative H: 1163
+
+B DATA:
+True Positive B: 96
+False Positive B: 116
+True Negative B: 18673
+False Negative B: 9582
+
+C DATA:
+True Positive C: 3285
+False Positive C: 2953
+True Negative C: 15484
+False Negative C: 12857
+=======================
+
+
+
+====================
+K: 60
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 60 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15104
+False Positive H: 21344
+True Negative H: 2813
+False Negative H: 1119
+
+B DATA:
+True Positive B: 198
+False Positive B: 276
+True Negative B: 17719
+False Negative B: 9590
+
+C DATA:
+True Positive C: 2615
+False Positive C: 2317
+True Negative C: 15302
+False Negative C: 13228
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 60 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 14401
+False Positive H: 21359
+True Negative H: 3096
+False Negative H: 1042
+
+B DATA:
+True Positive B: 139
+False Positive B: 238
+True Negative B: 17358
+False Negative B: 10280
+
+C DATA:
+True Positive C: 2957
+False Positive C: 2696
+True Negative C: 14540
+False Negative C: 12971
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 60 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 14235
+False Positive H: 22306
+True Negative H: 2021
+False Negative H: 612
+
+B DATA:
+True Positive B: 25
+False Positive B: 36
+True Negative B: 16231
+False Negative B: 9928
+
+C DATA:
+True Positive C: 1996
+False Positive C: 1636
+True Negative C: 14260
+False Negative C: 13438
+=======================
+
+
+
+====================
+K: 70
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 70 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 14816
+False Positive H: 20117
+True Negative H: 2021
+False Negative H: 708
+
+B DATA:
+True Positive B: 187
+False Positive B: 244
+True Negative B: 16650
+False Negative B: 8815
+
+C DATA:
+True Positive C: 1834
+False Positive C: 1737
+True Negative C: 15003
+False Negative C: 12575
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 70 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 14607
+False Positive H: 20127
+True Negative H: 3694
+False Negative H: 1408
+
+B DATA:
+True Positive B: 265
+False Positive B: 324
+True Negative B: 18036
+False Negative B: 9582
+
+C DATA:
+True Positive C: 3429
+False Positive C: 3060
+True Negative C: 14872
+False Negative C: 12521
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 70 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15164
+False Positive H: 18749
+True Negative H: 3507
+False Negative H: 1497
+
+B DATA:
+True Positive B: 315
+False Positive B: 588
+True Negative B: 18356
+False Negative B: 8793
+
+C DATA:
+True Positive C: 3192
+False Positive C: 3094
+True Negative C: 15479
+False Negative C: 12141
+=======================
+
+
+
+====================
+K: 80
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 80 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16297
+False Positive H: 24865
+True Negative H: 1177
+False Negative H: 319
+
+B DATA:
+True Positive B: 146
+False Positive B: 135
+True Negative B: 17328
+False Negative B: 9937
+
+C DATA:
+True Positive C: 1031
+False Positive C: 757
+True Negative C: 16443
+False Negative C: 15501
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 80 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 14671
+False Positive H: 20632
+True Negative H: 3331
+False Negative H: 1327
+
+B DATA:
+True Positive B: 387
+False Positive B: 779
+True Negative B: 17615
+False Negative B: 9801
+
+C DATA:
+True Positive C: 2944
+False Positive C: 2609
+True Negative C: 15058
+False Negative C: 12892
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 80 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15807
+False Positive H: 22149
+True Negative H: 3127
+False Negative H: 1075
+
+B DATA:
+True Positive B: 72
+False Positive B: 76
+True Negative B: 18862
+False Negative B: 10261
+
+C DATA:
+True Positive C: 3055
+False Positive C: 2774
+True Negative C: 15879
+False Negative C: 13663
+=======================
+
+
+
+====================
+K: 90
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 90 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15020
+False Positive H: 23237
+True Negative H: 1593
+False Negative H: 566
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 16613
+False Negative B: 9563
+
+C DATA:
+True Positive C: 1593
+False Positive C: 1197
+True Negative C: 15020
+False Negative C: 14305
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 90 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15941
+False Positive H: 23340
+True Negative H: 1862
+False Negative H: 590
+
+B DATA:
+True Positive B: 126
+False Positive B: 155
+True Negative B: 17677
+False Negative B: 9780
+
+C DATA:
+True Positive C: 1736
+False Positive C: 1425
+True Negative C: 16067
+False Negative C: 14550
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 90 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15274
+False Positive H: 22712
+True Negative H: 1858
+False Negative H: 539
+
+B DATA:
+True Positive B: 264
+False Positive B: 435
+True Negative B: 16868
+False Negative B: 9679
+
+C DATA:
+True Positive C: 1594
+False Positive C: 1269
+True Negative C: 15538
+False Negative C: 14198
+=======================
+
+
+
+====================
+K: 100
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 100 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 14787
+False Positive H: 20182
+True Negative H: 2394
+False Negative H: 771
+
+B DATA:
+True Positive B: 20
+False Positive B: 19
+True Negative B: 17161
+False Negative B: 8960
+
+C DATA:
+True Positive C: 2374
+False Positive C: 2004
+True Negative C: 14807
+False Negative C: 12474
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 100 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16382
+False Positive H: 21538
+True Negative H: 1775
+False Negative H: 583
+
+B DATA:
+True Positive B: 98
+False Positive B: 211
+True Negative B: 18059
+False Negative B: 9044
+
+C DATA:
+True Positive C: 1677
+False Positive C: 1436
+True Negative C: 16480
+False Negative C: 13558
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 100 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15519
+False Positive H: 20663
+True Negative H: 2286
+False Negative H: 716
+
+B DATA:
+True Positive B: 10
+False Positive B: 7
+True Negative B: 17795
+False Negative B: 8750
+
+C DATA:
+True Positive C: 2276
+False Positive C: 1864
+True Negative C: 15529
+False Negative C: 13068
+=======================
+
+
+
+====================
+K: 400
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 400 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 14516
+False Positive H: 20770
+True Negative H: 1964
+False Negative H: 758
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 16480
+False Negative B: 9086
+
+C DATA:
+True Positive C: 1964
+False Positive C: 1744
+True Negative C: 14516
+False Negative C: 12670
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 400 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15530
+False Positive H: 24658
+True Negative H: 569
+False Negative H: 131
+
+B DATA:
+True Positive B: 0
+False Positive B: 0
+True Negative B: 16099
+False Negative B: 9857
+
+C DATA:
+True Positive C: 569
+False Positive C: 336
+True Negative C: 15530
+False Negative C: 15006
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 400 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16315
+False Positive H: 25021
+True Negative H: 1754
+False Negative H: 430
+
+B DATA:
+True Positive B: 51
+False Positive B: 71
+True Negative B: 18018
+False Negative B: 10477
+
+C DATA:
+True Positive C: 1703
+False Positive C: 1214
+True Negative C: 16366
+False Negative C: 15399
+=======================
+
+
+
+====================
+K: 700
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 700 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15441
+False Positive H: 21638
+True Negative H: 1422
+False Negative H: 363
+
+B DATA:
+True Positive B: 91
+False Positive B: 120
+True Negative B: 16772
+False Negative B: 8933
+
+C DATA:
+True Positive C: 1331
+False Positive C: 1109
+True Negative C: 15532
+False Negative C: 13571
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 700 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 14816
+False Positive H: 21668
+True Negative H: 2534
+False Negative H: 867
+
+B DATA:
+True Positive B: 26
+False Positive B: 52
+True Negative B: 17324
+False Negative B: 9650
+
+C DATA:
+True Positive C: 2508
+False Positive C: 2102
+True Negative C: 14842
+False Negative C: 13305
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 700 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15177
+False Positive H: 22213
+True Negative H: 2434
+False Negative H: 774
+
+B DATA:
+True Positive B: 20
+False Positive B: 114
+True Negative B: 17591
+False Negative B: 10078
+
+C DATA:
+True Positive C: 2414
+False Positive C: 1996
+True Negative C: 15197
+False Negative C: 13471
+=======================
+
+
+
+====================
+K: 1000
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 1000 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 14309
+False Positive H: 22464
+True Negative H: 2091
+False Negative H: 488
+
+B DATA:
+True Positive B: 11
+False Positive B: 8
+True Negative B: 16389
+False Negative B: 10129
+
+C DATA:
+True Positive C: 2080
+False Positive C: 1596
+True Negative C: 14320
+False Negative C: 13451
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 1000 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 14518
+False Positive H: 21087
+True Negative H: 2250
+False Negative H: 639
+
+B DATA:
+True Positive B: 99
+False Positive B: 220
+True Negative B: 16669
+False Negative B: 9232
+
+C DATA:
+True Positive C: 2151
+False Positive C: 1552
+True Negative C: 14617
+False Negative C: 12988
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 1000 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15708
+False Positive H: 20704
+True Negative H: 1982
+False Negative H: 588
+
+B DATA:
+True Positive B: 18
+False Positive B: 20
+True Negative B: 17672
+False Negative B: 8621
+
+C DATA:
+True Positive C: 1964
+False Positive C: 1540
+True Negative C: 15726
+False Negative C: 13055
+=======================
+
+
+
+====================
+K: 1300
+Trial: 1
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 1300 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16237
+False Positive H: 22200
+True Negative H: 3400
+False Negative H: 1187
+
+B DATA:
+True Positive B: 143
+False Positive B: 214
+True Negative B: 19494
+False Negative B: 9989
+
+C DATA:
+True Positive C: 3257
+False Positive C: 2724
+True Negative C: 16380
+False Negative C: 13962
+=======================
+
+
+
+Trial: 2
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 1300 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 13974
+False Positive H: 24664
+True Negative H: 1435
+False Negative H: 296
+
+B DATA:
+True Positive B: 111
+False Positive B: 138
+True Negative B: 15298
+False Negative B: 10787
+
+C DATA:
+True Positive C: 1324
+False Positive C: 962
+True Negative C: 14085
+False Negative C: 14681
+=======================
+
+
+
+Trial: 3
+Created list of lists, there are: 1975 entries
+Created list of lists, there are: 1975 entries
+
+
+=======================
+RUNNING THE MALLET CRF ON A TRAINING SET CONTAINING 1300 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 14792
+False Positive H: 19391
+True Negative H: 1895
+False Negative H: 697
+
+B DATA:
+True Positive B: 92
+False Positive B: 221
+True Negative B: 16595
+False Negative B: 8261
+
+C DATA:
+True Positive C: 1803
+False Positive C: 1430
+True Negative C: 14884
+False Negative C: 12084
+=======================
+
+
+
+====================

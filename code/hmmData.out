@@ -1,0 +1,555 @@
+
+STARTED
+
+K: 1
+Created list of lists, there are: 1975 entries
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 1 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 1 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 1 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 285
+False Positive H: 315
+True Negative H: 26745
+False Negative H: 15282
+
+B DATA:
+True Positive B: 9901
+False Positive B: 28927
+True Negative B: 3121
+False Negative B: 678
+
+C DATA:
+True Positive C: 1860
+False Positive C: 1339
+True Negative C: 24807
+False Negative C: 14621
+====================
+K: 2
+Created list of lists, there are: 1975 entries
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 2 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 2 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 2 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 12928
+False Positive H: 20634
+True Negative H: 8495
+False Negative H: 4253
+
+B DATA:
+True Positive B: 551
+False Positive B: 561
+True Negative B: 34253
+False Negative B: 10945
+
+C DATA:
+True Positive C: 4951
+False Positive C: 6685
+True Negative C: 21992
+False Negative C: 12682
+====================
+K: 3
+Created list of lists, there are: 1975 entries
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 3 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 3 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 3 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 2687
+False Positive H: 2868
+True Negative H: 25542
+False Negative H: 14445
+
+B DATA:
+True Positive B: 9080
+False Positive B: 27722
+True Negative B: 7203
+False Negative B: 1537
+
+C DATA:
+True Positive C: 1749
+False Positive C: 1436
+True Negative C: 26313
+False Negative C: 16044
+====================
+K: 4
+Created list of lists, there are: 1975 entries
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 4 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 4 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 4 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15656
+False Positive H: 21157
+True Negative H: 6515
+False Negative H: 1173
+
+B DATA:
+True Positive B: 404
+False Positive B: 250
+True Negative B: 33997
+False Negative B: 9850
+
+C DATA:
+True Positive C: 4363
+False Positive C: 2671
+True Negative C: 24412
+False Negative C: 13055
+====================
+K: 5
+Created list of lists, there are: 1975 entries
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 5 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 5 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 5 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15164
+False Positive H: 24529
+True Negative H: 4324
+False Negative H: 903
+
+B DATA:
+True Positive B: 263
+False Positive B: 285
+True Negative B: 33243
+False Negative B: 11129
+
+C DATA:
+True Positive C: 3005
+False Positive C: 1674
+True Negative C: 25785
+False Negative C: 14456
+====================
+K: 6
+Created list of lists, there are: 1975 entries
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 6 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 6 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 6 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 11362
+False Positive H: 11679
+True Negative H: 15237
+False Negative H: 4837
+
+B DATA:
+True Positive B: 3377
+False Positive B: 5249
+True Negative B: 27490
+False Negative B: 6999
+
+C DATA:
+True Positive C: 6694
+False Positive C: 4754
+True Negative C: 21821
+False Negative C: 9846
+====================
+K: 7
+Created list of lists, there are: 1975 entries
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 7 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 7 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 7 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 12157
+False Positive H: 12282
+True Negative H: 17222
+False Negative H: 4883
+
+B DATA:
+True Positive B: 1813
+False Positive B: 3582
+True Negative B: 31854
+False Negative B: 9295
+
+C DATA:
+True Positive C: 9070
+False Positive C: 7640
+True Negative C: 20508
+False Negative C: 9326
+====================
+K: 8
+Created list of lists, there are: 1975 entries
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 8 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 8 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 8 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15719
+False Positive H: 19942
+True Negative H: 9685
+False Negative H: 2348
+
+B DATA:
+True Positive B: 1143
+False Positive B: 1506
+True Negative B: 35155
+False Negative B: 9890
+
+C DATA:
+True Positive C: 5511
+False Positive C: 3873
+True Negative C: 25227
+False Negative C: 13083
+====================
+K: 9
+Created list of lists, there are: 1975 entries
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 9 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 9 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 9 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16477
+False Positive H: 19841
+True Negative H: 7338
+False Negative H: 1773
+
+B DATA:
+True Positive B: 555
+False Positive B: 654
+True Negative B: 35046
+False Negative B: 9174
+
+C DATA:
+True Positive C: 4710
+False Positive C: 3192
+True Negative C: 24787
+False Negative C: 12740
+====================
+K: 10
+Created list of lists, there are: 1975 entries
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 10 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 10 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 10 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 17406
+False Positive H: 22526
+True Negative H: 7181
+False Negative H: 1407
+
+B DATA:
+True Positive B: 361
+False Positive B: 249
+True Negative B: 37291
+False Negative B: 10619
+
+C DATA:
+True Positive C: 4592
+False Positive C: 3386
+True Negative C: 26407
+False Negative C: 14135
+====================
+K: 20
+Created list of lists, there are: 1975 entries
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 20 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 20 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 20 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16121
+False Positive H: 23916
+True Negative H: 4331
+False Negative H: 805
+
+B DATA:
+True Positive B: 207
+False Positive B: 377
+True Negative B: 34056
+False Negative B: 10533
+
+C DATA:
+True Positive C: 2760
+False Positive C: 1792
+True Negative C: 25874
+False Negative C: 14747
+====================
+K: 30
+Created list of lists, there are: 1975 entries
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 30 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 30 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 30 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 14619
+False Positive H: 22385
+True Negative H: 4717
+False Negative H: 769
+
+B DATA:
+True Positive B: 297
+False Positive B: 267
+True Negative B: 31591
+False Negative B: 10335
+
+C DATA:
+True Positive C: 2933
+False Positive C: 1989
+True Negative C: 24031
+False Negative C: 13537
+====================
+K: 40
+Created list of lists, there are: 1975 entries
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 40 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 40 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 40 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 17087
+False Positive H: 21637
+True Negative H: 5496
+False Negative H: 883
+
+B DATA:
+True Positive B: 330
+False Positive B: 240
+True Negative B: 34794
+False Negative B: 9739
+
+C DATA:
+True Positive C: 3589
+False Positive C: 2220
+True Negative C: 25819
+False Negative C: 13475
+====================
+K: 50
+Created list of lists, there are: 1975 entries
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 50 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 50 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 50 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16707
+False Positive H: 23536
+True Negative H: 4191
+False Negative H: 643
+
+B DATA:
+True Positive B: 232
+False Positive B: 171
+True Negative B: 34783
+False Negative B: 9891
+
+C DATA:
+True Positive C: 2909
+False Positive C: 1522
+True Negative C: 25951
+False Negative C: 14695
+====================
+K: 60
+Created list of lists, there are: 1975 entries
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 60 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 60 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 60 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16029
+False Positive H: 23523
+True Negative H: 4680
+False Negative H: 917
+
+B DATA:
+True Positive B: 459
+False Positive B: 642
+True Negative B: 33951
+False Negative B: 10097
+
+C DATA:
+True Positive C: 2963
+False Positive C: 1533
+True Negative C: 25969
+False Negative C: 14684
+====================
+K: 70
+Created list of lists, there are: 1975 entries
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 70 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 70 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 70 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16351
+False Positive H: 22145
+True Negative H: 5530
+False Negative H: 1010
+
+B DATA:
+True Positive B: 651
+False Positive B: 673
+True Negative B: 33756
+False Negative B: 9956
+
+C DATA:
+True Positive C: 3130
+False Positive C: 2086
+True Negative C: 25882
+False Negative C: 13938
+====================
+K: 80
+Created list of lists, there are: 1975 entries
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 80 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 80 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 80 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16147
+False Positive H: 24961
+True Negative H: 5946
+False Negative H: 835
+
+B DATA:
+True Positive B: 345
+False Positive B: 212
+True Negative B: 35628
+False Negative B: 11704
+
+C DATA:
+True Positive C: 3966
+False Positive C: 2258
+True Negative C: 26773
+False Negative C: 14892
+====================
+K: 90
+Created list of lists, there are: 1975 entries
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 90 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 90 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 90 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 14212
+False Positive H: 20918
+True Negative H: 4766
+False Negative H: 776
+
+B DATA:
+True Positive B: 381
+False Positive B: 447
+True Negative B: 30104
+False Negative B: 9740
+
+C DATA:
+True Positive C: 2883
+False Positive C: 1831
+True Negative C: 23278
+False Negative C: 12680
+====================
+K: 100
+Created list of lists, there are: 1975 entries
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 100 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 100 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 100 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16378
+False Positive H: 21550
+True Negative H: 5602
+False Negative H: 795
+
+B DATA:
+True Positive B: 443
+False Positive B: 321
+True Negative B: 34191
+False Negative B: 9370
+
+C DATA:
+True Positive C: 3522
+False Positive C: 2111
+True Negative C: 24875
+False Negative C: 13817
+====================
+K: 400
+Created list of lists, there are: 1975 entries
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 400 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 400 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 400 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 15051
+False Positive H: 23018
+True Negative H: 5066
+False Negative H: 685
+
+B DATA:
+True Positive B: 401
+False Positive B: 286
+True Negative B: 32985
+False Negative B: 10148
+
+C DATA:
+True Positive C: 3181
+False Positive C: 1883
+True Negative C: 24402
+False Negative C: 14354
+====================
+K: 700
+Created list of lists, there are: 1975 entries
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 700 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 700 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 700 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16384
+False Positive H: 22247
+True Negative H: 4483
+False Negative H: 606
+
+B DATA:
+True Positive B: 328
+False Positive B: 315
+True Negative B: 33597
+False Negative B: 9480
+
+C DATA:
+True Positive C: 2850
+False Positive C: 1596
+True Negative C: 25202
+False Negative C: 14072
+====================
+K: 1000
+Created list of lists, there are: 1975 entries
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 1000 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 1000 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 1000 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16123
+False Positive H: 20672
+True Negative H: 4132
+False Negative H: 628
+
+B DATA:
+True Positive B: 337
+False Positive B: 243
+True Negative B: 32316
+False Negative B: 8659
+
+C DATA:
+True Positive C: 2653
+False Positive C: 1527
+True Negative C: 24220
+False Negative C: 13155
+====================
+K: 1300
+Created list of lists, there are: 1975 entries
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 1300 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 1300 EXAMPLES AND A TEST SET CONTAINING 200 examples
+RUNNING THE NLTK HMM ON A TRAINING SET CONTAINING 1300 EXAMPLES AND A TEST SET CONTAINING 200 examples
+
+H DATA:
+True Positive H: 16170
+False Positive H: 23199
+True Negative H: 4294
+False Negative H: 836
+
+B DATA:
+True Positive B: 363
+False Positive B: 467
+True Negative B: 33826
+False Negative B: 9843
+
+C DATA:
+True Positive C: 2763
+False Positive C: 1537
+True Negative C: 25675
+False Negative C: 14524
+====================
